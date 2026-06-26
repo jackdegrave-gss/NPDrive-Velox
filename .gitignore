@@ -1,0 +1,7 @@
+build/
+*.user
+*.suo
+.vs/
+*.obj
+*.pdb
+*.ilk
